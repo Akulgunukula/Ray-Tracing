@@ -14,3 +14,5 @@ Features
   Renders spheres with shading
   Supports indirect lighting
   Customizable scene setup with different objects
+
+![Alt text for image](path/to/image3.jpg)
