@@ -9,10 +9,15 @@ This project is based on Peter Shirley’s guide. The purpose of this project is
 The ray tracer you’ll build is technically a path tracer, which simulates the way light bounces around a scene. This will develop a understanding for light physics and photography too.
 
 Features 
-  Outputs images in any image format
-  Includes a simple camera model
-  Renders spheres with shading
-  Supports indirect lighting
-  Customizable scene setup with different objects
+
+  -Outputs images in any image format
+  
+  -Includes a simple camera model
+  
+  -Renders spheres with shading
+  
+  -Supports indirect lighting
+  
+  -Customizable scene setup with different objects
 
 ![alt text](https://github.com/Akulgunukula/Ray-Tracing/blob/b4e58a977e4850aefed476c83b7d8d3e6dd84de0/image3.jpeg)
