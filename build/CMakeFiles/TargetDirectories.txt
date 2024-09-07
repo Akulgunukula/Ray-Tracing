@@ -1,0 +1,3 @@
+/Users/akulgunukula/Documents/GitHub/Ray-Tracing/build/CMakeFiles/RayTracing.dir
+/Users/akulgunukula/Documents/GitHub/Ray-Tracing/build/CMakeFiles/edit_cache.dir
+/Users/akulgunukula/Documents/GitHub/Ray-Tracing/build/CMakeFiles/rebuild_cache.dir
