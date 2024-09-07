@@ -4,7 +4,7 @@ Welcome to a  C++ implementation of a ray tracer, designed to help you quickly g
 
 Overview
 
-This project is based on Peter Shirley’s guide. The purpose of this project is to walk you through building a basic ray tracer that can render images with indirect lighting, which is widely used in movie production and video games. By the end of this project, you’ll have a functioning ray tracer that can render simple scenes, including spheres and simple light interaction.
+This project is based on Peter Shirley’s guide. The purpose of this project is to use a ray tracer that can render images with indirect lighting, which is widely used in movie production and video games. 
 
 The ray tracer you’ll build is technically a path tracer, which simulates the way light bounces around a scene. This will develop a understanding for light physics and photography too.
 
